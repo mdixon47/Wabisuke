@@ -1,4 +1,4 @@
-Project Wabisuke
+Project Wabisuke (The  penitent one) 
 ====================
 
-First attempt and the Refresh Rapid countdown site. 
+Completed the Refresh Rapid countdown site. 
